@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button.png</file>
+        <file>images/smashed-cookie-with-copy-space-blue-background_23-2148362318.jpg</file>
+        <file>images/fork.png</file>
+        <file>images/social-network-management-marketing-cartoon_81522-4673.jpg</file>
+        <file>images/pink-gradient-white-linear-3840x2160-c2-ffb6c1-ffffff-a-15-f-14.png</file>
+        <file>images/document.png</file>
+        <file>images/document (1).png</file>
+        <file>images/stand.png</file>
+        <file>images/network.png</file>
+        <file>images/benefits-of-shaking-up-your-work-routine-1.png</file>
+        <file>images/teamwork.svg</file>
+        <file>images/people.png</file>
+        <file>images/user.png</file>
+        <file>images/password.png</file>
+        <file>images/png-time-now-2 (1).png</file>
+        <file>images/find.png</file>
+        <file>images/graph.png</file>
+        <file>images/mathematics.png</file>
+        <file>images/refresh.png</file>
+        <file>images/delete.png</file>
+        <file>images/exit.png</file>
+        <file>images/wind-512_151x151.png</file>
+        <file>images/Thanksgiving-33-512_151x151.png</file>
+        <file>images/-png-_121x111.png</file>
+        <file>images/unnamed_121x111.png</file>
+        <file>images/things-already-done-23a776c71d9ec435984843b7c43103f8_121x111.png</file>
+        <file>images/otepad-and-pencil-icon-free-download-png-svg-icon-notepad-and-pencil-icon-11563326637hxwlosawzj_121x111.png</file>
+        <file>images/pencil-icon-ruler-drawing-kikkerland-ruler-pencil-cross-classic-century-pencil-icon-design-stationery-symbol-png-clip-art_121x111.png</file>
+    </qresource>
+</RCC>
